@@ -18,4 +18,4 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 ### Acknowledgements 
 
 ##### © Copyright IBM Corporation 1994, 2022.
-##### © Alberto Martin Visciglia 2022
+##### © AMV 2022
